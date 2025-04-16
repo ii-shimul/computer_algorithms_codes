@@ -31,4 +31,5 @@
 *.out
 *.app
 
+A.cpp
 .vscode
