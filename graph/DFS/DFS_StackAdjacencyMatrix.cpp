@@ -2,12 +2,12 @@
 using namespace std;
 
 int graph[1001][1001];
-int visit[1001];
+int visited[1001];
 int n, e;
 
 void DFS(int start) {
   // initial step
-  visit[start] = 1;
+  visited[start] = 1;
   cout << start << " ";
   stack<int>stk;
   stk.push(start);
@@ -16,8 +16,8 @@ void DFS(int start) {
   while (!stk.empty()) {
     for (int j = 1; j <= n; j++) {
       int x = stk.top();
-      if (visit[j] == 0 && graph[x][j] != 0) {
-        visit[j] = 1;
+      if (visited[j] == 0 && graph[x][j] != 0) {
+        visited[j] = 1;
         cout << j << " ";
         stk.push(j);
         j = 1;
