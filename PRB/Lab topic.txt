@@ -1,0 +1,28 @@
+Algorithm Lab:
+1. Basic C++ codes (cout and printf issues)
+2. Insertion Sort
+3. Selection Sort
+*. (Bubble Sort)
+4. Merging two sorted array
+5. Merge Sort (Using Recursion)
+6. Structure Sort
+7. Fractional Knapsack Problem
+8. Fibonacci With Memoization
+9. Fibonacci with Tabulation
+10. 0/1 Knapsack using Tabulation and Selected Objects Code
+11. LCS using Recursion
+*. LCS using Memoization
+13. LCS using Tabulation and sequence finding
+14. Coin change using tabulation and selected coins
+15. LIS using tabulation
+16. Directed/undirected Graph input (using Matrix and Vector)
+17. Directed/undirected Weighted Graph Input (Using Matrix and Vector and Pair)
+18. BFS using Adjacency Matrix
+19. BFS using Adjacency List (Vector)
+20. DFS using stack and Matrix
+21. DFS using stack and vector list
+22. DFS using recursion with Matrix
+23. DFS using recursion with Vector list
+24. Topological Sort using Matrix
+25. Topological Sort using Vector list
+26. Floyd Warshall Algorithm using Matrix
